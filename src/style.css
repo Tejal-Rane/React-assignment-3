@@ -1,0 +1,7 @@
+.icon{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+body{
+   background-image: linear-gradient(to right,rgb(178, 216, 12), rgb(246, 251, 168));
+}
